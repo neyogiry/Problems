@@ -10,9 +10,10 @@ In this problem you will model a simple block world under certain rules and cons
 
 ####The Problem 
 
-The problem is to parse a series of commands that instruct a robot arm in how to manipulate blocks that lie on a flat table. Initially there are n blocks on the table (numbered from 0 to n-1) with block bi adjacent to block bi+1 for all $0 \leq i < n-1$ as shown in the diagram below:
+The problem is to parse a series of commands that instruct a robot arm in how to manipulate blocks that lie on a flat table. Initially there are n blocks on the table (numbered from 0 to n-1) with block bi adjacent to block bi+1 for all 0 =< i < n-1 as shown in the diagram below:
  
-\begin{figure} \centering \setlength{\unitlength}{0.0125in} % \begin{picture} (2... ...raisebox{0pt}[0pt][0pt]{$\bullet \bullet \bullet$ }}} \end{picture} \end{figure}
+![Texto alternativo](https://uva.onlinejudge.org/external/1/101img2.gif "Initial Blocks World")
+
 Figure: Initial Blocks World
 
 The valid commands for the robot arm that manipulates blocks are:
