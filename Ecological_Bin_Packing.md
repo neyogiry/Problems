@@ -43,5 +43,5 @@ If more than one order of brown, green, and clear bins yields the minimum number
 ####Sample Output
 
 BCG 30  
-CBG 50
+CBG 50  
 
